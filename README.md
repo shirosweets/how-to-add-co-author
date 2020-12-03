@@ -1,9 +1,9 @@
 # how-to-add-co-author
 
 ## Index
-[Add co-author]()
+[Add co-author](https://github.com/shirosweets/how-to-add-co-author/blob/main/README.md#how-to-add-commit-with-co-author-or-multiple-co-authors)
 
-[Private email on GitHub]()
+[Private email on GitHub](https://github.com/shirosweets/how-to-add-co-author/blob/main/README.md#hot-to-get-your-email-with-usersnoreplygithubcom)
 
 ### How to add commit with co-author or multiple co-authors:
 ```
