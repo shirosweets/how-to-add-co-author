@@ -5,6 +5,8 @@
 
 [Private email on GitHub](https://github.com/shirosweets/how-to-add-co-author/blob/main/README.md#hot-to-get-your-email-with-usersnoreplygithubcom)
 
+----------------------------------------------
+
 ### How to add commit with co-author or multiple co-authors:
 ```
 $ git commit -m "Title
@@ -16,7 +18,9 @@ Co-authored-by: name <name@example.com>"
 
 Then push your commit
 
-### Hot to get your email with @users.noreply.github.com:
+----------------------------------------------
+
+### How to get your email with @users.noreply.github.com:
 
 In your GitHub profile, go on settings:
 <img src="images/profile.png" width="800">
